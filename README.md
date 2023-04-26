@@ -1,6 +1,7 @@
 # llama_openvino
 This sample shows how to implement a llama-based model with OpenVINO runtime.
-Please notice this repository is only for functional test.
+
+**Please notice this repository is only for functional test.**
 
 ## How to run it?
 1. Install the requirements:
