@@ -1,5 +1,5 @@
 # llama_openvino
-This sample shows how to implement llama-7b-hf with OpenVINO runtime.
+This sample shows how to implement a llama-based model with OpenVINO runtime.
 
 ## How to run it?
 1. Install the requirements:
