@@ -1,0 +1,5 @@
+numpy
+openvino-dev==2022.3.0
+git+https://github.com/huggingface/transformers.git
+sentencepiece
+torch
